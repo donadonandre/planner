@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage banner TEST",
+      "details": "Lorem ipsum",
+      "complete": false
+    },
+    {
+      "id": 2,
+      "title": "Study Vue",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Test",
+      "details": "test",
+      "complete": false,
+      "id": 3
+    }
+  ]
+}
